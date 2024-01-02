@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885695771537",
+    "project_id": "atnear-285c8",
+    "storage_bucket": "atnear-285c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885695771537:android:c341f5d94888b984d8a030",
+        "android_client_info": {
+          "package_name": "com.mz.atnear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqV4Pqzd0G3F3ucV5DTcltNJ5YVQ6pquA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
